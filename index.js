@@ -4,7 +4,7 @@ const userInput = prompt (
 );
 
 const froyoFlavor = userInput.split(",")
-// console.log(froyoFlavor)
+console.log(froyoFlavor)
 // console.table(froyoFlavor)
 // separating in to 6 separate elements
 
